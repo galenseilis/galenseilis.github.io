@@ -12,6 +12,10 @@ I completed a college diploma in [BioScience Technology][biotech] at the Saskatc
 
 [Who Is the Rock Miner and Who Is the Hunter? The Use of Heavy-Oxygen Labeled Phosphate (P<sup>18</sup>O<sub>4</sub>) to Differentiate between C and P Fluxes in a Benzene-Degrading Consortium][Mamet2018]
 
+[Archaea and bacteria mediate the effects of native species root loss on fungi during plant invasion.][Mamet2017]
+
+[Plant belowground diversity and species segregation by depth in a semi-arid grassland][Lamb2017]
+
 During my time working in academia, I started to pick up more sophisticated skills and knowledge in [Statistics][Statistics] and [coding][coding] in the [Python][Python] [programming language][programming_language]. These skills were essential to helping me understand and explain the [data][data] produced in our projects that involved [metagenomics][metagenomics], [chromatography][chromatography], [spectroscopy][spectroscopy], and [mass spectrometry][mass spectrometry].
 
 # Biochemistry and Molecular Biology
@@ -19,6 +23,8 @@ During my time working in academia, I started to pick up more sophisticated skil
 I've nearly completed an [undergraduate degree](https://en.wikipedia.org/wiki/Undergraduate_degree) in [Biochemistry](https://en.wikipedia.org/wiki/Biochemistry) and [Molecular Biology](https://en.wikipedia.org/wiki/Molecular_biology). I am really excited to finish it!
 
 
+[Lamb2017]: https://www.tandfonline.com/doi/abs/10.1080/11956860.2017.1403242?journalCode=teco20
+[Mamet2017]: https://www.ncbi.nlm.nih.gov/pubmed/28140393
 [Grigoryan2018]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6090518/
 [Mamet2018]: https://pubs.acs.org/doi/pdf/10.1021/acs.est.7b05773
 [Python]: https://www.python.org/

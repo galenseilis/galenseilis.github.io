@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Research
+permalink: /research/
 ---
 
-
-# Biotechnology
-I completed a college diploma in [BioScience Technology][biotech] at the Saskatchewan Institute of Applied Science and Technology, now known as [Saskatchewan Polytechnic][SaskPolytech] and went on to work as a research technician in ecotoxicology. If you're interested, I've included links to publications where I am mentioned in the paper's acknowledgments.
+I worked as a research technician in ecotoxicology. If you're interested, I've included links to publications where I am mentioned in the paper's acknowledgments.
 
 [Bacterial diversity and production of sulfide in microcosms containing uncompacted bentonites][Grigoryan2018]
 
@@ -18,9 +16,6 @@ I completed a college diploma in [BioScience Technology][biotech] at the Saskatc
 
 During my time working in academia, I started to pick up more sophisticated skills and knowledge in [Statistics][Statistics] and [coding][coding] in the [Python][Python] [programming language][programming_language]. These skills were essential to helping me understand and explain the [data][data] produced in our projects that involved [metagenomics][metagenomics], [chromatography][chromatography], [spectroscopy][spectroscopy], and [mass spectrometry][mass spectrometry].
 
-# Biochemistry and Molecular Biology
-
-I've nearly completed an [undergraduate degree](https://en.wikipedia.org/wiki/Undergraduate_degree) in [Biochemistry](https://en.wikipedia.org/wiki/Biochemistry) and [Molecular Biology](https://en.wikipedia.org/wiki/Molecular_biology). I am really excited to finish it!
 
 
 [Lamb2017]: https://www.tandfonline.com/doi/abs/10.1080/11956860.2017.1403242?journalCode=teco20

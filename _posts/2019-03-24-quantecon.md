@@ -1,1 +1,0 @@
-My first project was to go through the quantecon Python courses. They have an undergraduate-level course, and a graduate-level course. I have completed them both, so in this post I'll give an overview and discuss miscellaneous thoughts that came up while I was going through the material.

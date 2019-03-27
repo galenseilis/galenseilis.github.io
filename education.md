@@ -6,7 +6,7 @@ permalink: /education/
 
 
 # Biotechnology
-I completed a college diploma in [BioScience Technology][biotech] at the Saskatchewan Institute of Applied Science and Technology, now known as [Saskatchewan Polytechnic][SaskPolytech].
+I completed a college diploma in [BioScience Technology][biotech] at the Saskatchewan Institute of Applied Science and Technology, now known as [Saskatchewan Polytechnic][SaskPolytech]. This program gave me a strong foundation in analytical intstrumentation and molecular biology.
 
 # Biochemistry and Molecular Biology
 

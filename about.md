@@ -1,20 +1,81 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: About
+permalink: /About/
 ---
 
-I worked as a research technician in ecotoxicology. If you're interested, I've included links to publications where I am mentioned in the paper's acknowledgments.
+## Education
 
-[Bacterial diversity and production of sulfide in microcosms containing uncompacted bentonites][Grigoryan2018]
+# BSc in Biochemistry and Molecular Biology
+[University of Northern British Columbia](https://www.unbc.ca/) (2016-2019)
+* Undergraduate thesis: transcriptomic analysis of red algae under nutrient depravation
+* Project: Coded a script to colour a protein's residues in PyMol with an arbitrary colour scheme provided in CSV format
+* Project: CytB haplotype and microsatellite analyses of Northern Screech Owl populations in British Columbia
+* Attended extracurricular seminars on deep (machine) learning and number theory
+* Attended extracurricular meetings with the iGEM Club, and the Chemistry Club
 
-[Who Is the Rock Miner and Who Is the Hunter? The Use of Heavy-Oxygen Labeled Phosphate (P<sup>18</sup>O<sub>4</sub>) to Differentiate between C and P Fluxes in a Benzene-Degrading Consortium][Mamet2018]
+# Diploma in BioScience Technology
+[Saskatchewan Polytechnic](https://saskpolytech.ca/) (2012-2014)
+* Practicum: Agriculture and Agri-Food Canada
+* Project: Identify a fungi based on microscopy and culturing techniques
+* Project: Identify a bacterium based on microscopy, biochemical assays, and culturing techniques
+* Project: Setup and maintain a bioreactor
+* Project: Extract, purify, and analyze a genomic mouse sequence
 
-[Archaea and bacteria mediate the effects of native species root loss on fungi during plant invasion.][Mamet2017]
 
-[Plant belowground diversity and species segregation by depth in a semi-arid grassland][Lamb2017]
+## Employment
 
-During my time working in academia, I started to pick up more sophisticated skills and knowledge in [Statistics][Statistics] and [coding][coding] in the [Python][Python] [programming language][programming_language]. These skills were essential to helping me understand and explain the [data][data] produced in our projects that involved [metagenomics][metagenomics], [chromatography][chromatography], [spectroscopy][spectroscopy], and [mass spectrometry][mass spectrometry].
+# Research Technician
+University of Saskatchewan, Department of Agriculture (2014-2016)
+* Analyzed inorganic anions on HPLC ion chromatograph system
+* Analyzed atmospheric samples on FTIR spectrometer
+* Analyzed FAMEs on GC-FID
+* Analyzed herbicides and petroleum hydrocarbons on GC-FID/TQ-MS
+* Analyzed soluble organic acids on LC-UV
+* Coded bioinformatics pipelines for metagenomic sequence processing
+* Coded data collation scripts for analytical instruments
+* Coded script with adjusted parameters for peak detection and integration of chromatograms
+* Fluorometric analysis of amino acid extracts
+* Ordered equipment and supplies
+* Trained students on use of lab equipment and bioinformatics software
+
+# Math Tutor
+(2015)
+* Gave learning assistance to a highschool student, primarily in study strategies and highschool algebra
+
+# Junior Forest Technician
+Montane Forest Consultants Ltd. (2011-2013, 2016-2019)
+* Layout
+* Reconnaissance
+* Silviculture Surveys
+* Timber Cruising
+
+## Volunteer
+
+# Chromatography Demonstrator
+Exploration Place (2017)
+* The Exploration Place puts on a family event to get kids excited about science
+* I was there through the UNBC Chemistry Club putting on demonstrations of paper chromatography to get kids wondering how substances can be separated
+
+# Chemical Technician
+University of Northern British Columbia (2016)
+* Performed water tests that indicate the health of a marine aquarium environment inhabited by numerous genera of invertebrates and fish
+* The data I collected is used for control monitoring the habitability of the aquarium
+
+# Mover and Busboy
+The Dosu Wok (2016)
+* Assisted in The Dosu Wok's annual Chinese New Year celebration by taking, preparing, and delivering orders from customers enjoying the festive dragon dance and Kung fu
+* Accommodate the increased load of customers by setting up and cleaning additional tables before the event, and storing those tables after the event
+
+## Acknowledgments
+
+* [Bacterial diversity and production of sulfide in microcosms containing uncompacted bentonites][Grigoryan2018].
+
+* [Who Is the Rock Miner and Who Is the Hunter? The Use of Heavy-Oxygen Labeled Phosphate (P<sup>18</sup>O<sub>4</sub>) to Differentiate between C and P Fluxes in a Benzene-Degrading Consortium][Mamet2018]
+
+* [Archaea and bacteria mediate the effects of native species root loss on fungi during plant invasion.][Mamet2017]
+
+* [Plant belowground diversity and species segregation by depth in a semi-arid grassland][Lamb2017]
 
 
 
@@ -22,14 +83,3 @@ During my time working in academia, I started to pick up more sophisticated skil
 [Mamet2017]: https://www.ncbi.nlm.nih.gov/pubmed/28140393
 [Grigoryan2018]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6090518/
 [Mamet2018]: https://pubs.acs.org/doi/pdf/10.1021/acs.est.7b05773
-[Python]: https://www.python.org/
-[programming_language]: https://en.wikipedia.org/wiki/Programming_language
-[Statistics]: https://en.wikipedia.org/wiki/Statistics
-[data]: https://en.wikipedia.org/wiki/Data
-[metagenomics]: https://en.wikipedia.org/wiki/Metagenomics
-[chromatography]: https://en.wikipedia.org/wiki/Chromatography
-[spectroscopy]: https://en.wikipedia.org/wiki/Spectroscopy
-[mass spectrometry]: https://en.wikipedia.org/wiki/Mass_spectrometry
-[coding]: https://en.wikipedia.org/wiki/Computer_programming
-[SaskPolytech]: https://saskpolytech.ca/
-[biotech]: https://saskpolytech.ca/programs-and-courses/programs/BioScience-Technology.aspx
